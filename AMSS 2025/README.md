@@ -1,10 +1,9 @@
 # Amazon ML Summer School 2025 – Session Summaries
 
-Welcome to this repository.  
+Welcome to this repository.
 
-If you missed the **Amazon ML Summer School 2025** program, missed your session, or wish to revise, you are in the right place.  
-This repository provides concise summaries of the sessions conducted during the program.  
-Browse through the modules below to review the material.  
+If you missed the **Amazon ML Summer School 2025** program, missed a session, or simply want to revise the concepts, this repository is for you.  
+It contains concise and well-structured summaries of all sessions conducted during the program, organized in a consistent format for easy reading and quick revision.
 
 ## Program Schedule
 
@@ -15,14 +14,20 @@ Browse through the modules below to review the material.
 - **Aug 17th 2025** – [Module 4: Unsupervised Learning](https://github.com/cu-sanjay/Amazon-ML-Summer-School-2025/blob/main/AMSS%202025/MODULE4.md)  
 - **Aug 23rd 2025** – [Module 5: Probabilistic Graphical Models](https://github.com/cu-sanjay/Amazon-ML-Summer-School-2025/blob/main/AMSS%202025/MODULE5.md)  
 - **Aug 24th 2025** – [Module 6: Sequential Learning](https://github.com/cu-sanjay/Amazon-ML-Summer-School-2025/blob/main/AMSS%202025/MODULE6.md)  
+- **Aug 30th 2025** – [Module 7: Causal Inference](https://github.com/cu-sanjay/Amazon-ML-Summer-School-2025/blob/main/AMSS%202025/MODULE7.md)  
+- **Aug 31st 2025** – [Module 8: Reinforcement Learning](https://github.com/cu-sanjay/Amazon-ML-Summer-School-2025/blob/main/AMSS%202025/MODULE8.md)  
 
-### Upcoming Modules
-- **Aug 30th 2025** – Module 7: Causal Inference *(Yet to be updated)*  
-- **Aug 31st 2025** – Module 8: Reinforcement Learning *(Yet to be updated)*  
+> [!IMPORTANT]
+> These notes are created for learning and revision purposes from the Amazon ML Summer School 2025 sessions.  
+> Every module has been updated in a clean and consistent format to make studying easier and more organized.  
+> If you are preparing for interviews, assessments, or strengthening your ML fundamentals, these summaries can serve as quick revision notes.  
+>  
+> Wishing you the very best in your learning journey. Learn deeply, stay consistent, and keep building.
 
-> [!Note]
-> - Each module summary will be updated after the session is conducted.  
-> - Links will take you directly to the detailed notes of each module.  
-> - For upcoming modules, placeholders are provided for easy navigation once updates are available.  
+## About the Repository
+- Concise session-wise summaries  
+- Consistent formatting across all modules  
+- Easy navigation for revision and quick review  
+- Useful for both beginners and intermediate learners  
 
-Happy Learning!
+Happy Learning.
