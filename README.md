@@ -1,4 +1,10 @@
 <div align="center">
+  <img src="notify.svg" width="800" alt="Notification Banner"/>
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://github.com/user-attachments/assets/553bba2c-e5b1-4da9-9490-3b657c6e64f8" alt="Amazon ML Summer School Registration" width="700"/>
 </div>
 
@@ -142,11 +148,10 @@ The selection test consists of two sections:
 </p>
 
 <p align="center">
-  <!-- Apply Now -->
   <a href="https://unstop.com/hackathons/crp-amazon-ml-summer-school-2026-amazon-1688859?lb=NvCO4PA&utm_medium=Share&utm_source=online_coding_challenge&utm_campaign=Sanjaychoudhary">
     <img 
-      src="https://img.shields.io/badge/Apply%20Now%20(2026)-808080?style=plastic&logo=lock&logoColor=white" 
-      alt="Apply Now" 
+      src="https://img.shields.io/badge/Apply%20Now%20(2026)%20(Closed)-808080?style=plastic&logo=lock&logoColor=white" 
+      alt="Apply Now"  
       style="width: 300px; height: auto; margin: 8px 0;" />
   </a>
 </p>
