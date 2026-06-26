@@ -90,11 +90,20 @@ The selection test consists of two sections:
 
 # Contents of This Repository
 
-- 📄 **[Programming Questions](Programming.md)** — Practice questions similar to the actual selection test  
-- 📄 **[Summer School 2023 Questions](SummerSchool2023.md)** — Previous year memory-based questions for revision  
-- 📃 **[Official Sample Test 2025](Amazon_ML_Summer_School_Sample_Test.pdf)** — Official sample assessment shared by Scaler *(Solved)*  
-- 📘 **[Amazon ML Summer School Assessment 2025](AMSS_2025_Exam_Questions.pdf)** — Real memory-based assessment questions collected from participants  
-- 📚 **[More ML Resources](https://github.com/cu-sanjay/Amazon-ML-Summer-School-2025/blob/main/More%20ML%20Resources/README.md)** — Additional ML resources, roadmaps, notes, and learning material
+* 📄 **[Programming Questions (2023)](Programming.md)**: Coding questions asked during the 2023 selection assessment.
+* 📄 **[Summer School 2023 MCQs](SummerSchool2023.md)**: Multiple-choice questions asked in the 2023 selection test for revision.
+* 📄 **[Summer School 2024 Questions](MLSummerSchool2024.pdf)**: Complete question pool and exam layout from the 2024 cohort.
+* 📃 **[Official Sample Test 2025](Amazon_ML_Summer_School_Sample_Test.pdf)**: Official sample assessment shared by Scaler *(Solved)*.
+* 📘 **[Amazon ML Summer School Assessment 2025 (Set 1)](AMSS_2025_Exam_Questions.pdf)**: Questions from the AMSS 2025 assessment held during the morning shift.
+* 📘 **[Amazon ML Summer School Assessment 2025 (Set 2)](AMSS_2025_Questions.pdf)**: Questions from the AMSS 2025 assessment held during the afternoon shift.
+* 📂 **[AMSS 2025 Module Summaries](AMSS%202025/)**: Core directory containing complete notes, curriculum overviews, and summaries for all 8 modules.
+* 📚 **[More ML Resources](https://github.com/cu-sanjay/Amazon-ML-Summer-School-2025/blob/main/More%20ML%20Resources/README.md)**: Additional Machine Learning roadmaps, conceptual notes, and deep-learning material.
+
+> [!NOTE]
+> **Having trouble opening a PDF?**  
+> If GitHub displays an error or fails to load a PDF link, it is due to a temporary GitHub rendering issue common on certain browsers. The PDF files themselves are completely functional.
+> * **Fix:** Simply click the **"Download"** button on the top-right corner of the file preview screen to save it and read it locally on your device.
+> * If the browser preview loads fine for you, feel free to study and practice directly on GitHub!
 
 # Curriculum – AMSS 2025
 
